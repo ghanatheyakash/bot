@@ -1,0 +1,3 @@
+pyTelegramBotAPI
+wolframalpha
+ibm_watson
